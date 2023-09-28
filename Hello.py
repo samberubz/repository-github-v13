@@ -14,12 +14,12 @@ def run():
 
     st.markdown(
         """
-        What's up? Here is a new open-source app called samberubz2023invest. 
+        What's up? Here is a new open-source app called samberubz2023invest !
         It was built specifically for Stock Investing across three exchanges : NYSE, NASDAQ and TSX.
         
         **👈 Select a tab from the sidebar** to start investing!
         ### Want to fund this project?
-        - You can reach out to me via Linkedin [Linkedin](www.linkedin.com/in/samuel-bérubé-21b1a0127)
+        - You can reach out to me via Linkedin [www.linkedin.com/in/samuel-bérubé-21b1a0127](www.linkedin.com/in/samuel-bérubé-21b1a0127)
         - You should talk about this app to other Stock Market enthusiasts !
         
         ### See more complex demos
