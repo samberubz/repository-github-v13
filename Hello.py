@@ -15,6 +15,7 @@ def run():
     st.markdown(
         """
         What's up? Here is a new open-source app called samberubz2023invest !
+        
         It was built specifically for Stock Investing across three exchanges : NYSE, NASDAQ and TSX.
         
         **👈 Select a tab from the sidebar** to start investing!
