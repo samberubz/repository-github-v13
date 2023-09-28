@@ -14,8 +14,8 @@ def run():
 
     st.markdown(
         """
-        samberubz2023invest is an open-source app built specifically for
-        Stock Investing (NYSE, NASDAQ and TSX) and for the use of AI.
+        What's up? Here is a new open-source app called samberubz2023invest. 
+        It was built specifically for Stock Investing across three exchanges : NYSE, NASDAQ and TSX.
         **👈 Select a tab from the sidebar** to start investing!
         ### Want to fund this project?
         - You can reach out to me via Linkedin [Linkedin](www.linkedin.com/in/samuel-bérubé-21b1a0127)
