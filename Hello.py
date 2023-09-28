@@ -19,7 +19,7 @@ def run():
         
         **👈 Select a tab from the sidebar** to start investing!
         ### Want to fund this project?
-        - You can reach out to me via Linkedin [www.linkedin.com/in/samuel-bérubé-21b1a0127](www.linkedin.com/in/samuel-bérubé-21b1a0127)
+        - You can reach out to me via Linkedin [Linkedin](https://www.linkedin.com/in/samuel-bérubé-21b1a0127/)
         - You should talk about this app to other Stock Market enthusiasts !
         
         ### See more complex demos
