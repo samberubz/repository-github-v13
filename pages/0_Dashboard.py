@@ -4,8 +4,6 @@ import yfinance as yf
 import streamlit as st
 from streamlit.hello.utils import show_code
 
-tickers = yf.Tickers('nyse')
-st.write(tickers)
 
 def animation_demo() -> None:
 
@@ -56,6 +54,8 @@ def animation_demo() -> None:
     # rerun.
     st.button("Re-run")
 
+tickers = yf.Tickers('nyse')
+st.write(tickers)
 
 st.set_page_config(page_title="Animation Demo", page_icon="📹")
 st.markdown("# Animation Demo")
