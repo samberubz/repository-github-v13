@@ -4,3 +4,4 @@ pandas
 pydeck
 streamlit
 yfinance==0.1.63
+tensorflow
