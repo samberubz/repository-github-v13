@@ -1,8 +1,7 @@
 import streamlit as st
-import yfinance as yf
 from streamlit.logger import get_logger
 LOGGER = get_logger(__name__)
-t = yf.Tickers('AAPL')
+
 
 def run():
     st.set_page_config(
@@ -11,8 +10,6 @@ def run():
     )
 
     st.write("# Making money should be free 👋")
-
-    st.write(str(t))
 
     st.sidebar.success("Select a tab above.")
 
